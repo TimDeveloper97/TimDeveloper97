@@ -123,6 +123,15 @@
   <a href="https://bmc.link/timbkhnw"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="timbkhnw" />
   </a>
+  <a href="https://github.com/TimDeveloper97/TimDeveloper97/blob/main/icons/252310986505b55bec14.jpg"> 
+    <img align="left" src="https://github.com/TimDeveloper97/TimDeveloper97/blob/main/icons/bidv.png" height="50" width="50" alt="qr" />
+  </a>
+  <a href="https://github.com/TimDeveloper97/TimDeveloper97/blob/main/icons/fad0cd70b8ed68b331fc.jpg"> 
+    <img align="left" src="https://github.com/TimDeveloper97/TimDeveloper97/blob/main/icons/vcb.png" height="50" width="50" alt="qr" />
+  </a>
+  <a href="https://github.com/TimDeveloper97/TimDeveloper97/blob/main/icons/4edfce60bbfd6ba332ec.jpg"> 
+    <img align="left" src="https://github.com/TimDeveloper97/TimDeveloper97/blob/main/icons/momo.jpg" height="50" width="50" alt="qr" />
+  </a>
 </p>
 
 <!--  Trophies-->
