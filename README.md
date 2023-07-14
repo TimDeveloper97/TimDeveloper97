@@ -6,15 +6,6 @@
 <h3 align="center">Mobile App | Desktop UWP App | Game (Unity) & Website</h3>
 
 <br/>
-<!-- Social -->
-<p align="left" width="100%">
-  
-  [![Linkedin: timdeveloper97](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
-  [![Facebook: timdeveloper97](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] 
-  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
-  [![GitHub followers](https://img.shields.io/github/followers/timdeveloper97?logo=GitHub&style=for-the-badge)][github]
-</p>
-
 
 <p align="center"> 
    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/> 
@@ -28,8 +19,6 @@
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdeveloper97&layout=compact&show_icons=true&theme=radical" />
 </p>
 
-
-
 </br>
 
 - 🔭 I’m currently working on **Website ChatGPT - Automation and server restfull API**
@@ -38,7 +27,15 @@
 - 🌱 I’m currently learning Language to develop Mobile Application & Web APi & Microservice
 - 💞️ I’m cooperating with the company on AKS, Three Brother & Samsung R&D VN
 - 📫 Contract me: 0394852798 or Email: timbkhn@gmail.com or Linkerin
-
+<!-- Social -->
+<p align="right" width="100%">
+       		               
+  [![Linkedin: timdeveloper97](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/hadi-kachmar-27a56a177/)][linkedin]
+  [![Facebook: timdeveloper97](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][facebook] 
+  [![Discord](https://img.shields.io/badge/Discord-blue?style=for-the-badge)][discord]
+  [![GitHub followers](https://img.shields.io/github/followers/timdeveloper97?logo=GitHub&style=for-the-badge)][github]
+</p>
+</br>
 <h3 align="left">Languages and Tools:</h3>
 <!--  Skills -->
 <p align="left">
