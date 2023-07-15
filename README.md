@@ -19,7 +19,8 @@
    <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timdeveloper97&layout=compact&show_icons=true&theme=radical" />
 </p>
 
-</br>
+<br />
+<h3 align="left">About me</h3>
 
 - 🔭 I’m currently working on **Website ChatGPT - Automation and server restfull API**
 - 🔭 &ensp;I’m currently working on [**Veriserve**][veriserve] and **Freelancer**
@@ -116,8 +117,14 @@
 - [Call of Duty: Modern Warfare Remastered](https://www.youtube.com/watch?v=506u9Ym0Kgc&list=PLDCNXkhRFjCi35R3LLJUG-wVce4fqfUdF)
 - [The Complex](https://www.youtube.com/watch?v=rFGiDzx-orU&list=PLDCNXkhRFjCg_MF_ZFq2FCENVo54ybe_A&index=2)
 <!-- YOUTUBE:END -->
+<h3 align="left">Activity</h3>
 
- 
+<div align="center">
+  <img src="https://repobeats.axiom.co/api/embed/be7d81257a8bb38c4d2526613d008c963035bedf.svg" alt="Repobeats analytics image" />
+</div>
+
+<br/>
+
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://bmc.link/timbkhnw"> 
